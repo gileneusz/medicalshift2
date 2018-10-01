@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "to": "/",
+      "text": "Strona Główna"
+    },
+    {
+      "to": "/research",
+      "text": "Badanie"
+    },
+    {
+      "to": "/join",
+      "text": "Dołącz"
+    },
+    {
+      "to": "/contact",
+      "text": "Kontakt"
+    }
+  ]
+}

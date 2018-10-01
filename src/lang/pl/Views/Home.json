@@ -1,0 +1,39 @@
+{
+  "jumbotronTitle": "Opieka zdrowotna oparta na efektach leczniczych (VBHC)",
+  "jumbotronSubTitle": "Badanie nad nowym narzędziem wyceny za świadczenia lecznicze",
+  "cardFeatures": [
+    {
+      "title": "Sektor ochrony zdrowia jest szczególny",
+      "text": "Duże zróżnicowanie usług sprawia trudność podmiotom leczniczym w zakresie kontroli kosztów i jakości świadczeń leczniczych. Szpitale są wynagradzane w opierciu o ilościowe wykonanie przydzielonego kontraktu, nie zaś na osiągnięciu najlepszego efektu leczniczego przez danego pacjenta. Sprawia to, że konkurencyjność w ochronie zdrowia oparta jest na liczbie wykonanych świadczeń i maksymalnym ograniczeniu kosztów, nie na końcowych efektach leczniczych.",
+      "img": "feature1"
+    },
+    {
+      "title": "Jak zmierzyć koszty?",
+      "text": "Dobrym kandydatem jako narzędzie do ograniczenia kosztów w obszarze ochrony zdrowia jest rachunek kosztów działań sterowany czasem (TDABC), jednak jego zastosowanie może szybko doprowadzić do niebezpiecznych kompromisów w zakresie zapewnienia bezpieczeństwa pacjentów oraz obniżenia jakości leczenia. Dopiero zastosowanie pomiaru kosztów w zależności od konkretnego stanu pacjenta, łącznie ze zdefiniowanymi docelowymi efektami hospitalizacji wypełnia tą lukę.",
+      "img": "feature2"
+    },
+    {
+      "title": "Jaki jest cel badania?",
+      "text": "Od dawna ochrona zdrowia leży w strefe 'braku faktów', brakuje odpowiednich, kompletnych i uporządkowanych mierników efektów leczniczych. Zarządy szpitali oraz działy związane z rachunkowością mogą mieć duży i poztywyny wpływ na doskonalenie tych narzędzi. W efekcie umożliwi to wprowadzenie nowych metod refundacji świadczeń, które będą premiowały szpitale dostarczające świadczenia o najwyższej jakości.",
+      "img": "feature3"
+    }
+  ],
+  "testimonialsTitle": "Cytaty",
+  "testimonials": [
+    {
+      "author": "Michael E. Porter",
+      "title": "Bishop William Lawrence, Harvard Business School Boston, USA",
+      "quote": "Poprawę wartości definiujemy jako lepsze efekty leczenia pacjenta w stosunku do kosztów ich osiągnięcia. Z tak zdefiniowanym celem, podmioty lecznicze powinny przeprowadzać pomiar i być bardziej odpowiedzialne za wynik leczenia pacjentów [...]. Największym krokiem poprawy efektów leczenia jest rozpoczęcie pomiaru na poziomie pacjenta z danym stanem chorobowym, takim jak np. rak sutka czy zapalenie stawów kolanowych i biodrowych - lub poprzez zapewnienie podstawowej i prewencyjnej opieki medycznej dla poszczególnych grup pacjentów takich jak zdrowi dorośli. Takie działanie w zakresie pomiaru poprawi wyniki lepiej i szybciej niż jakakolwiek nowa technika chirurgiczna, urządzenie medyczne czy też lek."
+    },
+    {
+      "author": "Robert S. Kaplan",
+      "title": "Senior Fellow, Marvin Bower, Professor of Leadership Development, Emeritus, Harvard Business School Boston, USA",
+      "quote": "The only way to achieve sustainable cost reduction is to understand the structure of delivery itself, which requires looking at how an organization is currently spending money to treat patients for specific medical conditions. This allows identifying the inefficient and ineffective processes (those not contributing to better outcomes), understanding whether the right type of employee is performing each process step, and so on. With this information, providers can make fundamental process improvements that enable them to accomplish the same amount of work or better, with fewer or less expensive resources and without harming outcomes. That is where sustainable cost reductions must come from."
+    },
+    {
+      "author": "Michael E. Porter, Robert S. Kaplan",
+      "title": "Harvard Business School, Boston, USA",
+      "quote": "We hope, over the next five years, to have generally accepted standard outcome measure sets for medical conditions that cover 90% of the world’s disease burden. Measuring and reporting risk-adjusted outcomes by provider for each of these medical conditions will trigger enormous improvements in the treatments of patients."
+    }
+  ]
+}

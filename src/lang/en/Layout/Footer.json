@@ -1,0 +1,45 @@
+{
+  "company": "Mateusz Gilewicz, Warsaw School of Economics",
+  "services": "Services",
+  "projects": "Projects",
+  "ourTeam": "Our Team",
+  "communityCommitment": "Commitment to the Community",
+  "rights": "All Rights reserved.",
+  "social": [
+    {
+      "text": "Home",
+      "href": "/home"
+    },
+    {
+      "text": "Research",
+      "href": "/research"
+    },
+    {
+      "text": "Join",
+      "href": "/join"
+    },
+    {
+      "text": "Contact",
+      "href": "/contact"
+    }
+
+  ],
+  "categories": [
+    {
+      "items": [
+        { "text": "Success Stories", "href": "javascript:;" },
+        { "text": "Case Studies", "href": "javascript:;" },
+        { "text": "Testimonials", "href": "javascript:;" },
+        { "text": "Press Room", "href": "javascript:;" }
+      ]
+    },
+    {
+      "items": [
+        { "text": "Partners", "href": "javascript:;" },
+        { "text": "JBM Construction", "href": "javascript:;" },
+        { "text": "Macarthy Equipment", "href": "javascript:;" },
+        { "text": "Elite Construction Management", "href": "javascript:;" }
+      ]
+    }
+  ]
+}

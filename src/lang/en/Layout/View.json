@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "to": "/",
+      "text": "Home"
+    },
+    {
+      "to": "/research",
+      "text": "Research"
+    },
+    {
+      "to": "/join",
+      "text": "Join"
+    },
+    {
+      "to": "/contact",
+      "text": "Contact"
+    }
+  ]
+}
