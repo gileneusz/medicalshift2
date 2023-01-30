@@ -10,7 +10,7 @@
           <v-card elevation="5" width="100%">
             <v-responsive :aspect-ratio="16 / 9">
 
-              <iframe width="100%" height="100%" src="https://www.youtube.com/embed/6oJDigZNUqw" frameborder="0"
+              <iframe width="100%" height="100%" src="https://www.youtube.com/embed/QEVGIO7iIx8" frameborder="0"
                 allow="encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </v-responsive>
           </v-card>
