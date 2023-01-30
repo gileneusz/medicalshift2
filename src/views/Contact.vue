@@ -4,7 +4,7 @@
       <v-flex xs12 md5>
         <h2 class="headline mb-2" v-text="$t('Views.Contact.heading1')" />
         <p class="mb-4" v-text="$t('Views.Contact.headingText1')" />
-        <!-- <v-card>
+        <v-card>
           <v-card-text>
             <v-text-field
               label="Name"
@@ -25,7 +25,7 @@
               {{ $t('Views.Contact.submit') }}
             </v-btn>
           </v-card-actions>
-        </v-card> -->
+        </v-card>
       </v-flex>
       <v-flex xs12 sm3>
         <v-card>
