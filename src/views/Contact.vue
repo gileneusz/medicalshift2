@@ -30,11 +30,11 @@
       <v-flex xs12 sm3>
         <v-card>
           <div class="pa-3">
-            <v-img
+            <!-- <v-img
               src="/static/alpha-construction-logo-dark.png"
               alt="logo"
               class="my-3"
-            />
+            /> -->
           </div>
           <v-card-text>
             <div v-text="$t('Views.Contact.phone')" class="mb-3" />

@@ -1,20 +1,27 @@
 {
-  "jumbotronTitle": "Opieka zdrowotna oparta na efektach leczniczych (VBHC)",
-  "jumbotronSubTitle": "Badanie nad nowym narzędziem wyceny za świadczenia lecznicze",
+  "jumbotronTitle": "Streamlining Shift Coverage",
+  "jumbotronSubTitle": "Improving Hospital Operations with our Shift Management",
+  "cardFeatures1": [
+    {
+      "title": "Connecting Patients with Specialist Doctors",
+      "text": "A startup aims to address the shortage of doctors in small towns by creating a platform connecting patients with specialists. The platform will allow doctors to easily switch between hospitals and be assigned to duty, and patients to find a doctor in their area. The startup will work with local hospitals to ensure each ward is staffed with a doctor of the appropriate specialty. Click on the picture to see the video presentation.",
+      "img": "feature1"
+    }
+  ],
   "cardFeatures": [
     {
-      "title": "Sektor ochrony zdrowia jest szczególny",
-      "text": "Duże zróżnicowanie usług sprawia trudność podmiotom leczniczym w zakresie kontroli kosztów i jakości świadczeń leczniczych. Szpitale są wynagradzane w opierciu o ilościowe wykonanie przydzielonego kontraktu, nie zaś na osiągnięciu najlepszego efektu leczniczego przez danego pacjenta. Sprawia to, że konkurencyjność w ochronie zdrowia oparta jest na liczbie wykonanych świadczeń i maksymalnym ograniczeniu kosztów, nie na końcowych efektach leczniczych.",
+      "title": "Connecting Patients with Specialist Doctors",
+      "text": "A startup aims to address the shortage of doctors in small towns by creating a platform connecting patients with specialists. The platform will allow doctors to easily switch between hospitals and be assigned to duty, and patients to find a doctor in their area. The startup will work with local hospitals to ensure each ward is staffed with a doctor of the appropriate specialty. Click on the picture to see the video presentation.",
       "img": "feature1"
     },
     {
-      "title": "Jak zmierzyć koszty?",
-      "text": "Dobrym kandydatem jako narzędzie do ograniczenia kosztów w obszarze ochrony zdrowia jest rachunek kosztów działań sterowany czasem (TDABC), jednak jego zastosowanie może szybko doprowadzić do niebezpiecznych kompromisów w zakresie zapewnienia bezpieczeństwa pacjentów oraz obniżenia jakości leczenia. Dopiero zastosowanie pomiaru kosztów w zależności od konkretnego stanu pacjenta, łącznie ze zdefiniowanymi docelowymi efektami hospitalizacji wypełnia tą lukę.",
+      "title": "The Challenge of Recruiting Medical Staff",
+      "text": "Hospitals often face difficulties in staffing night shifts due to the limited availability of specialized medical professionals. The lack of employees can cause significant disruptions in hospital operations. Recruiting through conventional job portals is not convenient and effective, as they require detailed job descriptions and a lengthy recruitment process. Maintaining a large pool of shift job offers and reviewing multiple candidates for night shifts can be overwhelming and time-consuming for the recruitment units, especially in emergency situations where a replacement is needed quickly. The solution to this problem is the development of a platform that facilitates the rapid and efficient recruitment of medical professionals for night shifts. Click on the picture to see the video presentation.",
       "img": "feature2"
     },
     {
-      "title": "Jaki jest cel badania?",
-      "text": "Od dawna ochrona zdrowia leży w strefe 'braku faktów', brakuje odpowiednich, kompletnych i uporządkowanych mierników efektów leczniczych. Zarządy szpitali oraz działy związane z rachunkowością mogą mieć duży i poztywyny wpływ na doskonalenie tych narzędzi. W efekcie umożliwi to wprowadzenie nowych metod refundacji świadczeń, które będą premiowały szpitale dostarczające świadczenia o najwyższej jakości.",
+      "title": "Our Prototype System",
+      "text": "The prototype system streamlines the medical staff recruitment process with its calendar feature that displays all scheduled shifts and makes it easy to post a new shift. The shift posting is then shared with other hospitals, allowing them to fill the open shift efficiently. The application acceptance process is also simplified, with the ability to view candidate profiles and make informed decisions on whether to accept or reject their application. This system ensures that the medical department is fully staffed and prepared to provide the best care to patients. Click on the picture to see the video presentation.",
       "img": "feature3"
     }
   ],

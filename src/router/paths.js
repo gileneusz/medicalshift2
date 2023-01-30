@@ -5,15 +5,15 @@ export default [
     view: 'Home'
   },
   {
-    path: '/contact',
-    view: 'Contact'
-  },
-  {
     path: '/join',
     view: 'Join'
   },
   {
     path: '/research',
     view: 'Services'
+  },
+  {
+    path: '/contact',
+    view: 'Contact'
   }
 ]

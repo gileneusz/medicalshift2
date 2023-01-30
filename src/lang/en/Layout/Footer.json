@@ -1,5 +1,5 @@
 {
-  "company": "Mateusz Gilewicz, Warsaw School of Economics",
+  "company": "Medical Shift Management Company",
   "services": "Services",
   "projects": "Projects",
   "ourTeam": "Our Team",
@@ -11,11 +11,11 @@
       "href": "/home"
     },
     {
-      "text": "Research",
+      "text": "Prototype",
       "href": "/research"
     },
     {
-      "text": "Join",
+      "text": "Patent",
       "href": "/join"
     },
     {
@@ -27,18 +27,10 @@
   "categories": [
     {
       "items": [
-        { "text": "Success Stories", "href": "javascript:;" },
-        { "text": "Case Studies", "href": "javascript:;" },
-        { "text": "Testimonials", "href": "javascript:;" },
-        { "text": "Press Room", "href": "javascript:;" }
       ]
     },
     {
       "items": [
-        { "text": "Partners", "href": "javascript:;" },
-        { "text": "JBM Construction", "href": "javascript:;" },
-        { "text": "Macarthy Equipment", "href": "javascript:;" },
-        { "text": "Elite Construction Management", "href": "javascript:;" }
       ]
     }
   ]

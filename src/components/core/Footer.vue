@@ -5,7 +5,7 @@
     :categories="categories"
   >
     <span>
-      &copy; 2018
+      &copy; 2023
       {{ $t('Layout.Footer.company') }}
       &mdash;
       {{ $t('Layout.Footer.rights') }}

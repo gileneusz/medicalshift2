@@ -1,29 +1,35 @@
 <template>
   <div>
     <v-container fill-height>
-      <v-layout
-        justify-center
-        align-center
-        wrap
-      >
-        <v-flex xs12 mb-5>
-          <alpha-card-feature :features="cardFeatures" />
-        </v-flex>
+      <v-layout justify-center align-center wrap>
+
         <v-flex>
-          <v-container>
-            <v-layout justify-center
-        align-center>
-              <iframe src="https://player.vimeo.com/video/141066658?title=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-              <!-- <iframe src="https://player.vimeo.com/video/141066658" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-              <!-- <p><a href="https://vimeo.com/141066658">Measured Outcomes_ A Future View of Value-Based Healthcare-HD</a> from <a href="https://vimeo.com/healthcatalyst">Health Catalyst</a> on <a href="https://vimeo.com">Vimeo</a>.</p>  -->               
+          
+          <!-- <v-container> -->
+            <v-layout justify-center align-center>
+              <v-card elevation="5" width="100%" >
+                <v-responsive :aspect-ratio="16/9">
+                
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/6oJDigZNUqw" frameborder="0"
+                  allow="encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </v-responsive>
+              </v-card>
             </v-layout>
-          </v-container>
+          <!-- </v-container> -->
 
         </v-flex>
-        <v-flex xs12 mb-3>
-          <h2>{{ $t('Views.Home.testimonialsTitle') }}</h2>
+        <v-flex xs12 mb-5>
+
+          <alpha-card-feature :features="cardFeatures" />
         </v-flex>
-        <v-flex
+
+
+
+
+        <!-- <v-flex xs12 mb-3>
+          <h2>{{ $t('Views.Home.testimonialsTitle') }}</h2>
+        </v-flex> -->
+        <!-- <v-flex
           xs12
           sm6
           v-for="(testimonial, i) in testimonials.slice(0,2)"
@@ -35,11 +41,11 @@
             :title="testimonial.title"
             :quote="testimonial.quote"
           />
-        </v-flex>
+        </v-flex> -->
       </v-layout>
     </v-container>
 
-    <alpha-hero
+    <!-- <alpha-hero
       src="/static/home-parallax.png"
       :height="$vuetify.breakpoint.mdAndUp ? 500 : 'auto'"
       :jumbotron="false"
@@ -67,25 +73,25 @@
           </v-flex>
         </v-layout>
       </v-container>
-    </alpha-hero>
+    </alpha-hero> -->
   </div>
 </template>
 
 <script>
-  export default {
-    metaInfo: {
-      title: 'Vuetify Alpha',
-      meta: [
-        { name: 'description', content: 'Customized vue-cli templates for Vue and Vuetify' }
-      ]
+export default {
+  metaInfo: {
+    title: 'Shift Management',
+    // meta: [
+    //   { name: 'description', content: 'Customized vue-cli templates for Vue and Vuetify' }
+    // ]
+  },
+  computed: {
+    cardFeatures() {
+      return this.$t('Views.Home.cardFeatures')
     },
-    computed: {
-      cardFeatures () {
-        return this.$t('Views.Home.cardFeatures')
-      },
-      testimonials () {
-        return this.$t('Views.Home.testimonials')
-      }
+    testimonials() {
+      return this.$t('Views.Home.testimonials')
     }
   }
+}
 </script>

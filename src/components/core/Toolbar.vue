@@ -6,10 +6,10 @@
     :color="!isScrolling ? 'transparent' : 'secondary'"
     v-scroll="onScroll"
   >
-    <img
+    <!-- <img
       src="/static/alpha-construction-logo.png"
 
-    />
+    /> -->
     <v-spacer />
     <v-toolbar-items v-if="$vuetify.breakpoint.mdAndUp">
       <v-btn

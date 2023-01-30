@@ -4,7 +4,7 @@
       v-if="namespace"
       :key="$route.path"
       :src="heroImage"
-      height="40vh"
+      height="10vh"
       gradient="to top, rgba(160, 90, 70, .85), rgba(30, 40, 30, .85)"
     >
       <v-fade-transition mode="out-in">

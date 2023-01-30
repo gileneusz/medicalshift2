@@ -10,7 +10,7 @@
   export default {
     metaInfo () {
       return {
-        titleTemplate: '%s — Alpha Theme'
+        titleTemplate: ''
       }
     }
   }
