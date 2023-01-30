@@ -18,10 +18,10 @@
           <!-- </v-container> -->
 
         </v-flex>
-        <v-flex xs12 mb-5>
+        <!-- <v-flex xs12 mb-5>
 
           <alpha-card-feature :features="cardFeatures" />
-        </v-flex>
+        </v-flex> -->
 
 
 
