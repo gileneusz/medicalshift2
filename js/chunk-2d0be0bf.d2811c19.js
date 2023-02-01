@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0be0bf"],{"2f1f":function(a,t,r){"use strict";r.r(t);var e=function(){var a=this,t=a._self._c;return t("div",{staticClass:"text-md-center"},[t("v-avatar",{attrs:{color:"grey lighten-4",size:"120"}},[t("img",{attrs:{src:a.publicPath("/img/avatar.jpg"),alt:"Amirrea Nasiri"}})])],1)},i=[],s={name:"Avatar"},n=s,c=r("2877"),l=Object(c["a"])(n,e,i,!1,null,"5bca016b",null);t["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0be0bf.d2811c19.js.map
